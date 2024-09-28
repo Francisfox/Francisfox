@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Francismar 👋
 
-<!--
-**Francisfox/Francisfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Sempre em busca de novos conhecimentos e tecnologias**! Estou constantemente aprendendo e explorando novas ferramentas e linguagens que me desafiam a criar soluções inovadoras.
 
-Here are some ideas to get you started:
+🚀 **Atualmente, estou focado em linguagens de programação com orientação a objetos**, principalmente C++. Também tenho um grande interesse em eletrônica e automação, trabalhando como hobby com **Arduino** e **ESP32**, desenvolvendo projetos para controlar dispositivos e criar sistemas inteligentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Tecnologias com as quais trabalho:**
+- C++
+- Arduino
+- ESP32
+- Automação e Internet das Coisas (IoT)
+
+🌱 Sempre buscando aprender mais sobre **programação orientada a objetos** e **sistemas embarcados**.
+
+📫 Você pode me encontrar em: https://www.linkedin.com/in/francismar-dos-santos-brito-2368ba13a/
+
