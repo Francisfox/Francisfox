@@ -5,7 +5,9 @@
 🚀 **Atualmente, estou focado em linguagens de programação com orientação a objetos**, principalmente C++. Também tenho um grande interesse em eletrônica e automação, trabalhando como hobby com **Arduino** e **ESP32**, desenvolvendo projetos para controlar dispositivos e criar sistemas inteligentes.
 
 ⚙️ **Tecnologias com as quais trabalho:**
+- C
 - C++
+- JavaScript
 - Arduino
 - ESP32
 - Automação e Internet das Coisas (IoT)
