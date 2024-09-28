@@ -12,5 +12,7 @@
 
 🌱 Sempre buscando aprender mais sobre **programação orientada a objetos** e **sistemas embarcados**.
 
-📫 Você pode me encontrar em: https://www.linkedin.com/in/francismar-dos-santos-brito-2368ba13a/
+📫 Você pode me encontrar em:
+[Perfil de Francismar dos Santos Brito no LinkedIn](https://www.linkedin.com/in/francismar-dos-santos-brito-2368ba13a/)
+
 
